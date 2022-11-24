@@ -1,5 +1,5 @@
-<h1 align="center">GITHUB José Eugênio</h1>
-<h3 align="center">Estudando linguagem C atualmente.</h3>
+<h1 align="center">CURRÍCULO</h1>
+<h3 align="center">Estudo Linguagem C atualmente</h3>
 
 - 🔭 Trabalhando no projeto da [WebCurves](https://joseeugeniio.github.io/webcurves/)
 
