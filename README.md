@@ -5,7 +5,7 @@
 
 - 🌱 Linguagens que tenho domínio **HTML, CSS, JAVASCRIPT e JAVA**
 
-- 👯 Colaborador e CEO da [Bramitt](https://bramitt.com)
+- 👯 Desenvolvedor e CEO da [Bramitt](https://bramitt.com)
 
 - 💬 Linguagens que estudo **react, nextjs, spring e ruby**
 
