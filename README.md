@@ -26,7 +26,6 @@
 ![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat-square&logo=react&color=informational&logoColor=000000)&nbsp;
 ![NEXT.JS](https://img.shields.io/badge/-NEXTJS-05122A?style=flat-square&logo=next.js&color=informational&logoColor=000000)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c&color=informational&logoColor=000000)&nbsp;
-![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&color=informational&logoColor=000000)&nbsp;
 ![GITHUB](https://img.shields.io/badge/-GITHUB-05122A?style=flat-square&logo=github&color=informational&logoColor=000000)&nbsp;
 ![RUBY](https://img.shields.io/badge/-RUBY-05122A?style=flat-square&logo=ruby&color=informational&logoColor=000000)&nbsp;
 ![AI](https://img.shields.io/badge/-AI-05122A?style=flat-square&logo=adobe-illustrator&color=informational&logoColor=000000)&nbsp;
