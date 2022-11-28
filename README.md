@@ -19,22 +19,27 @@
 
 ## &nbsp;Linguagens que Estudo
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat-square&logo=javascript&color=informational&logoColor=000000)&nbsp;
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-05122A?style=flat-square&logo=node.js&logoColor=000000&color=informational)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=informational&logoColor=000000)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&logoColor=000000&color=informational)&nbsp;
+![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat-square&logo=react&color=informational&logoColor=000000)&nbsp;
+![NEXT.JS](https://img.shields.io/badge/-NEXTJS-05122A?style=flat-square&logo=next.js&color=informational&logoColor=000000)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c&color=informational&logoColor=000000)&nbsp;
+![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&color=informational&logoColor=000000)&nbsp;
+![GITHUB](https://img.shields.io/badge/-GITHUB-05122A?style=flat-square&logo=github&color=informational&logoColor=000000)&nbsp;
+![RUBY](https://img.shields.io/badge/-RUBY-05122A?style=flat-square&logo=ruby&color=informational&logoColor=000000)&nbsp;
+![AI](https://img.shields.io/badge/-AI-05122A?style=flat-square&logo=adobe-illustrator&color=informational&logoColor=000000)&nbsp;
+![XD](https://img.shields.io/badge/-XD-05122A?style=flat-square&logo=adobe-xd&color=informational&logoColor=000000)&nbsp;
+![PSD](https://img.shields.io/badge/-PSD-05122A?style=flat-square&logo=adobe-photoshop&color=informational&logoColor=000000)&nbsp;
 
 <br><br>
 
 ## &nbsp;Análise GitHub
 
 <p align="left">
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=joseeugeniio&theme=dark&show_icons=true" alt=" Status"/>
-<img width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeugeniio&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=joseeugeniio&theme=transparent&show_icons=true" alt=" Status"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeugeniio&layout=compact&theme=transparent" alt="Linguagens mais usadas"/>
 </p>
 
 <br><br>
