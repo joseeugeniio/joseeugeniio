@@ -13,6 +13,8 @@
 
 - 💬 As linguagens que eu domino no Momento **JavaScript, HTML, CSS, Node.JS**
 
+- ▶️ Softwares que domino **Illustrator, Photoshop e XD**
+
 - 👨‍💻 Email jeugenioneves@gmail.com
 
 <br><br>
