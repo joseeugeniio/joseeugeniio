@@ -2,7 +2,7 @@
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=joseeugeniio&style=for-the-badge&color=lightgrey" alt="Visualizações no Perfil" />
-<img src="https://img.shields.io/github/license/joseeugeniio/joseeugeniio?style=for-the-badge" alt="Lincenciado por MIT" />
+<img align="left" src="https://img.shields.io/github/license/joseeugeniio/joseeugeniio?style=for-the-badge" alt="Lincenciado por MIT" />
 <br><br>
 
 - 🔥 Atualmente sou Desenvolvedor Junior
