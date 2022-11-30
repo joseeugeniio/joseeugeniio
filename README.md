@@ -39,8 +39,8 @@
 ## &nbsp;Análise GitHub
 
 <p align="left">
-<img width="370em" src="https://github-readme-stats.vercel.app/api?username=joseeugeniio&theme=transparent&show_icons=true" alt=" Status"/>
-<img width="445em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeugeniio&layout=compact&theme=transparent" alt="Linguagens mais usadas"/>
+<img width="370em" src="https://github-readme-stats.vercel.app/api?username=joseeugeniio&theme=dark&show_icons=true" alt=" Status"/>
+<img width="445em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeugeniio&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
 </p>
 
 <br><br>
