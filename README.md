@@ -9,8 +9,6 @@
 
 - 🔭 Estou trabalhando em um projeto chamado WebCurves que ainda está em fase de criação
 
-- ▶️ Acesse o meu Canal no YouTube [youtube.com/@webcurves](https://youtube.com/@webcurves)
-
 - 💬 As linguagens que eu domino no Momento **JavaScript, HTML, CSS, Node.JS**
 
 - ▶️ Softwares que domino **Illustrator, Photoshop e XD**
